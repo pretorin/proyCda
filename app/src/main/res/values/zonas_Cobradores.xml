@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="zonas">
+            <item>Colegio</item>
+            <item>Central</item>
+            <item>Norte</item>
+            <item>Sud</item>
+            <item>Sacaba</item>
+            <item>Quillacollo</item>
+
+        </string-array>
+
+</resources>

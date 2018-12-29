@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cobros CDA</string>
+    <string name="enlaceCDA">http://www.auditores.org.bo/</string>
+    <string name="enlaceFB">https://www.facebook.com/cdauditores/</string>
+</resources>
